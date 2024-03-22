@@ -2,7 +2,8 @@
 # Welcome to The 2035 Initiative GitHub Organization!
 
 The 2035 Initiative is a collaborative effort aimed at driving sustainable development and innovation to address the challenges of the 21st century. Our mission is to pave the way for a brighter future by fostering partnerships, promoting research, and implementing actionable solutions.
-About
+
+### About
 
 At the heart of the 2035 Initiative is a commitment to tackling pressing global issues such as climate change, social inequality, and technological advancement. Through interdisciplinary collaboration and community engagement, we seek to create positive and lasting change.
 Key Objectives
