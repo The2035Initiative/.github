@@ -6,7 +6,8 @@ The 2035 Initiative is a collaborative effort aimed at driving sustainable devel
 ### About
 
 At the heart of the 2035 Initiative is a commitment to tackling pressing global issues such as climate change, social inequality, and technological advancement. Through interdisciplinary collaboration and community engagement, we seek to create positive and lasting change.
-Key Objectives
+
+### Key Objectives
 
     Sustainable Development: Promoting environmentally conscious practices and policies to ensure a resilient and thriving planet for future generations.
 
