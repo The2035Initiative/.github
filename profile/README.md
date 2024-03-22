@@ -1,3 +1,4 @@
+![image](https://github.com/The2035Initiative/Buffer_Protocol_2035_Initiative_draft/assets/141206781/a801039a-1760-48e7-915c-76a41e71eac8)
 # Welcome to The 2035 Initiative GitHub Organization!
 
 The 2035 Initiative is a collaborative effort aimed at driving sustainable development and innovation to address the challenges of the 21st century. Our mission is to pave the way for a brighter future by fostering partnerships, promoting research, and implementing actionable solutions.
