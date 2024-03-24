@@ -9,10 +9,10 @@ At the heart of the 2035 Initiative is a commitment to tackling pressing global 
 
 ### Key Objectives
 
-Sustainable Development: Promoting environmentally conscious practices and policies to ensure a resilient and thriving planet for future generations.
+**Sustainable Development**: Promoting environmentally conscious practices and policies to ensure a resilient and thriving planet for future generations.
 
-Innovation: Harnessing the power of technology and innovation to drive economic growth and social progress in a rapidly changing world.
+**Innovation**: Harnessing the power of technology and innovation to drive economic growth and social progress in a rapidly changing world.
 
-Community Engagement: Empowering communities to actively participate in decision-making processes and shape their own sustainable future.
+**Community Engagement**: Empowering communities to actively participate in decision-making processes and shape their own sustainable future.
 
-Research and Education: Investing in research initiatives and educational programs to deepen understanding and inspire action on critical global challenges.
+**Research and Education**: Investing in research initiatives and educational programs to deepen understanding and inspire action on critical global challenges.
